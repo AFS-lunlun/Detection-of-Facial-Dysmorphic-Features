@@ -1,0 +1,2 @@
+# Figure export dependency; numerical analysis uses the Python standard library.
+matplotlib>=3.8,<4
